@@ -20,15 +20,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Test2</title>
-    <url>/posts/d27aa25c.html</url>
-    <content><![CDATA[<h1>一级标题</h1>
-<h2 id="二级标题">二级标题</h2>
-<p>这是一个<strong>测试文件</strong>。</p>
-<figure class="highlight c++"><table><tbody><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
-]]></content>
-  </entry>
-  <entry>
     <title>这是第二个测试页面</title>
     <url>/posts/4403b51e.html</url>
     <content><![CDATA[<h1>一级标题</h1>
