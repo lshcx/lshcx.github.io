@@ -1,9 +1,10 @@
-https://lshcx.github.io/tags/index.html
-https://lshcx.github.io/posts/4a17b156.html
 https://lshcx.github.io/archives/index.html
 https://lshcx.github.io/categories/index.html
 https://lshcx.github.io/diary/index.html
 https://lshcx.github.io/link/index.html
+https://lshcx.github.io/tags/index.html
+https://lshcx.github.io/posts/4a17b156.html
+https://lshcx.github.io/posts/d27aa25c.html
 https://lshcx.github.io/posts/4403b51e.html
 https://lshcx.github.io/
 https://lshcx.github.io/tags/test3/
