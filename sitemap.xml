@@ -2,45 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lshcx.github.io/diary/index.html</loc>
-    
-    <lastmod>2024-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lshcx.github.io/link/index.html</loc>
-    
-    <lastmod>2024-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lshcx.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lshcx.github.io/posts/4a17b156.html</loc>
-    
-    <lastmod>2024-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lshcx.github.io/archives/index.html</loc>
     
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-09-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,16 +13,43 @@
   <url>
     <loc>https://lshcx.github.io/categories/index.html</loc>
     
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-09-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lshcx.github.io/posts/4403b51e.html</loc>
+    <loc>https://lshcx.github.io/diary/index.html</loc>
     
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lshcx.github.io/link/index.html</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lshcx.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lshcx.github.io/posts/82e51b9c.html</loc>
+    
+    <lastmod>2024-09-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,22 +58,36 @@
 
   <url>
     <loc>https://lshcx.github.io/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://lshcx.github.io/tags/test3/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <loc>https://lshcx.github.io/tags/docker/</loc>
+    <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lshcx.github.io/tags/test4/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <loc>https://lshcx.github.io/tags/docker-compose/</loc>
+    <lastmod>2024-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lshcx.github.io/tags/Debian/</loc>
+    <lastmod>2024-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lshcx.github.io/tags/Ubuntu/</loc>
+    <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -90,8 +95,8 @@
 
   
   <url>
-    <loc>https://lshcx.github.io/categories/Test1/</loc>
-    <lastmod>2024-09-06</lastmod>
+    <loc>https://lshcx.github.io/categories/docker%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
